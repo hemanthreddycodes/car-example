@@ -14,6 +14,6 @@ CarController → CarService → Engine
 
 ⚙️ Technologies Used
 
-Java
-Spring Boot
-Maven
+Java,
+Spring Boot,
+Maven.
